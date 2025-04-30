@@ -11,6 +11,7 @@ from pystyle import *
 from colorama import Fore, Back, Style
 import termcolor
 import colorama
+import requests
 
 # ===== CONFIGURACIÓN ===== #
 # Proxy SOCKS5 (TOR) - Descomenta para usar
